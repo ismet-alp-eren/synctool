@@ -1,0 +1,5 @@
+{
+    "username": "your github username",
+    "token": "your github token",
+    "location": "/your/projects/path"
+}
